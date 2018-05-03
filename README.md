@@ -14,7 +14,7 @@ Antes de mais nada, se você ainda não consegue se comunicar em inglês, eu dig
 
 É o fim? Como eu vou aprender? Droga vou desistir. Calma aqui vou passar algumas dicar de como consegui deixar meu inglês em um nível de comunicação onde já consigo conversar com qualuqer americano, como também qualquer pessoa do Planeta que fale inglês. A primeira coisa que lhe falarei é: Tenha coragem! Sim coragem é o primeiro passo para as vagas internacionais pois você terá que enfrentar as longas entrevistas por Skype, Hangout ou Telefone. 
 
-Então, eu não fiz nenhum curso de inglês, apenas segui o que vou lhe passar aqui e hoje já me sinto confortável no idioma. Verdade que tiveram algumas entrevistas no começo que tinha muito medo, pois as primeiras entrevistas eu usava para treinar o idioma, sim, lembro da primeira entrevista com uma empresa da Alemanha em que quando começou eu simplesmente não entendia nada e pedia para a entrevistadora escrever e enviar, hahahahah.
+Então, eu não fiz nenhum curso de inglês, apenas segui o que vou lhe passar aqui e hoje já me sinto confortável no idioma. Verdade que tiveram algumas entrevistas no começo que tinha muito medo, pois as primeiras entrevistas eu usava para treinar o idioma, sim, lembro da primeira entrevista com uma empresa da Alemanha em que quando começou eu simplesmente não entendia nada e pedia para a entrevistadora escrever e enviar, :smiley: :smiley: :smiley:.
 
   - LinkedIn
   O primeiro passo, como queremos ser encontrados por uma empresa de fora das terras tupiniquins teremos que trocar todo o LinkedIn para inglês. No começo você pode usar o Google Translator para ajudar a corrigir os erros gramaticais. Com o tempo que você for amadurecendo no inglês você vai melhorando. A dica que eu usei no meu é olhar os LinkedIns de desenvolvedores internacionais e de grandes empresas famosas como Booking, Facebook, Google, AirBnb entre outras.
@@ -48,3 +48,17 @@ Preciso esperar está bom no inglês para começar a estudar o caminho do desenv
    - [http://shoptalkshow.com/](http://shoptalkshow.com/)
    - [https://softwareengineeringdaily.com/](https://softwareengineeringdaily.com/)
    - [https://relativepaths.uk/](https://relativepaths.uk/)
+   
+  - Filmes e Serados
+    Esse talvez seja o mais divertido. A técnica dos seriados e filmes é conhecida. Mas eu dei um toque especial na minha.
+    Primeiro eu escolhi um seriado para assistir do início ao fim todo em Inglês (No meu caso eu escolhi o Lost). Então, mesmo sem entender nada? Sim! Você vai está estudando por fora o inglês e com o tempo as coisas vão começar a fazer sentido. vale lembrar esse é o seriado do 2I = (Inglês Audio + Inglês Legenda), eu não repetia episódios, simplesmente deixava rolar. Quando Lost já estava na 5 temporada eu já conseguia assimilar muita coisa e entender o Contexto, é simplesmente Incrível.
+  
+    Segundo, escolha os seriádos que você usará lhe torturar: Ou seja, assitir o episódio em Inglês com legenda Portugês, depois assitir o mesmo episódio em Inglês com legenda Inglês e repetir até você se sentir confortável.
+  
+    Terceiro, escolha os seriádos que você assiti dublado e ponha a Legenda em Inglês. O que? Como assim? Sim uso muito essa técnica em casa, nosso vocabulário não é extenso em inglês e a gente precisa alimentá-lo. Perceb que isso funcionava, pois minha esposa ver muito seriado em Português no NetFlix, etnão comecei a colocar a legenda em inglês enquando assistia com ela, simplesmente isso me ajudou a conhecer novas palavras e frases. E rapidamente comecei a usar no meu dia-adia e nas entrevistas essas novas palavras e frases. É umas das técnicas mais divertidas que eu acho.
+
+  - Livros e Textos
+  Escolha um livro bacana em Inglês que você vai ler e traduzir o que não entende. e Quando terminar de ler, leia-o novamente e novamente e novamente até você se sentir confortável.
+  Siga no Medium, Twitter, Sites de tecnologias internacionais de preferência de preferência de tecnologia ligados ao desenvolviento.
+
+  Então esse foi o caminho que eu fiz durante um ano para aprender e ficar com o Inglês avançado. Eu ainda não passei em uma vaga internacional, mas consegui passar em uma vaga para outro estado, para vaga de Líder de desenvolvimento ligado a projetos Internacionais e já recebi diversas propostas de empresas Brasileiras para trabalhar, mas estou em uma boa posição na empresa atual que trabalho e fica perto de minha Faculdade onde estou focado após 7 anos, terminar minha graduação. Então o inglês, além da profissão como Desenvolvedor abriu e me deixou bastante confortável em relação a emprego no Brasil.
