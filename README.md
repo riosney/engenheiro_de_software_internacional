@@ -5,6 +5,8 @@ Comecei a mais ou menos 1 ano a estudar e me preparar para uma vaga em uma empre
 
 Espero que com esse guia possa organizar o passo-a-passo tomado e que consiga ajudar outros desenvolvedore Brasileiros conseguir uma vaga no exterior. Ainda não conseguir tal proesa, mas já venho participando de algumas entrevistas internacionais. Ou seja a 1 ano atrás não conseguia nem falar com outra pessoa 'Hello my name is Joel', agora já faço entrevistas com RH, passo pelo o processo, chegando muitas vezes na ultima fase. Espero ajudar a todos como eu, que tem o desejo de trabalhar em uma empresa Internacional.
 
+E para as vagas brasileiras? Sim este guia funciona também para as vagas brasileiras. Seguindo esse caminho você conseguirá com mais facilidade conquistar uma vaga no mercado, se destacar para as melhores vagas, ou quem sabe até conseguir um Home Office de uma empresa brasileira ou do exterior.
+
 ## Índice
 - [O que é isso?](#o-que-é-isso)
 - [Inglês em primeiro lugar](#inglês-em-primeiro-lugar)
@@ -66,6 +68,7 @@ Preciso esperar está bom no inglês para começar a estudar o caminho do desenv
 
   Então esse foi o caminho que eu fiz durante um ano para aprender e ficar com o Inglês avançado. Eu ainda não passei em uma vaga internacional, mas consegui passar em uma vaga para outro estado, para vaga de Líder de desenvolvimento ligado a projetos Internacionais e já recebi diversas propostas de empresas Brasileiras para trabalhar, mas estou em uma boa posição na empresa atual que trabalho e fica perto de minha Faculdade onde estou focado após 7 anos, terminar minha graduação. Então o inglês, além da profissão como Desenvolvedor abriu e me deixou bastante confortável em relação a emprego no Brasil.
 
+* Minha esposa está seguindo este guia, mas só com o inglês e alguns meses atrás o inglês dela era 0% hoje já pode-se considerar que está com o inglês 50% e tem vezes que ela está escutando uma musica ou um vídeo, ou até mesmo escutando eu falar com alguma empresa de fora e ela depois me pergunta: Você falou isso, eles falram aquilo, entendi essas partes da conversa. É muito divertido isso.
 
 ## Estrutura de Dados
   Quando você estiver estudando JavaScript e suas famosas Libs e Frameworks, no caso ReactJS, Angular, Vue e tantos outros visando o mercado Global é preciso saber que as entrevistas lá fora muitas vezes não será desenvolver um projeto ou alguma Feature em JS e sim como você lida com Estrutura de Dados, então devemos forcar também em conhecer e resolver problemas utilizando LinkedList, HashTable, saber como se comporta um Árvore Binária, assim como compreênder a complexidade de um algorítimo com Big O. Principalmente se você está buscando uma vaga como Software Egineer, FullStack Developer, FrontEnd Engineer ou até mesmo FrontEnd Developer, pois já fiz algumas entrevistas para FrontEnd Developer onde pediram muitas vezes pra resolver tais problemas.
