@@ -7,8 +7,13 @@ Espero que com esse guia possa organizar o passo-a-passo tomado e que consiga aj
 
 E para as vagas brasileiras? Sim este guia funciona também para as vagas brasileiras. Seguindo esse caminho você conseguirá com mais facilidade conquistar uma vaga no mercado, se destacar para as melhores vagas, ou quem sabe até conseguir um Home Office de uma empresa brasileira ou do exterior.
 
+## Contribuições
+Achou algum erro de Português? Gostaria de acrescentar algum link importante?
+Faça um pull request.
+
 ## Índice
 - [O que é isso?](#o-que-é-isso)
+- [Contribuições](#contribuições)
 - [Inglês em primeiro lugar](#inglês-em-primeiro-lugar)
 - [Estrutura de Dados](#estrutura-de-dados)
 - [Notação Big O](#notação-big-o)
