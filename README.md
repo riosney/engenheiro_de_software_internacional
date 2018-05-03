@@ -9,6 +9,8 @@ Espero que com esse guia possa organizar o passo-a-passo tomado e que consiga aj
 - [O que é isso?](#o-que-é-isso)
 - [Inglês em primeiro lugar](#inglês-em-primeiro-lugar)
 - [Estrutura de Dados](#estrutura-de-dados)
+- [Notação Big O](#notação-big-o)
+- [Arrays](arrays)
 
 ## Inglês em primeiro lugar
 Antes de mais nada, se você ainda não consegue se comunicar em inglês, eu digo: Chegou a hora de dar foco ao idioma do Tio Sam. Como sabemos na nossa área é essencial, para qualquer vaga que envolva projetos internacionais, sendo aqui no Brasil ou qualquer outro país onde você deseja trabalhar como desenvolvedor.
@@ -67,14 +69,14 @@ Preciso esperar está bom no inglês para começar a estudar o caminho do desenv
 
 ## Estrutura de Dados
   Quando você estiver estudando JavaScript e suas famosas Libs e Frameworks, no caso ReactJS, Angular, Vue e tantos outros visando o mercado Global é preciso saber que as entrevistas lá fora muitas vezes não será desenvolver um projeto ou alguma Feature em JS e sim como você lida com Estrutura de Dados, então devemos forcar também em conhecer e resolver problemas utilizando LinkedList, HashTable, saber como se comporta um Árvore Binária, assim como compreênder a complexidade de um algorítimo com Big O. Principalmente se você está buscando uma vaga como Software Egineer, FullStack Developer, FrontEnd Engineer ou até mesmo FrontEnd Developer, pois já fiz algumas entrevistas para FrontEnd Developer onde pediram muitas vezes pra resolver tais problemas.
-  - Notação Big O
-    [] [https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation](https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
-    [] [https://pmary.gitbooks.io/data-structure-in-javascript/content/22-big-o-notation.html](https://pmary.gitbooks.io/data-structure-in-javascript/content/22-big-o-notation.html)
-    [] [https://pt.wikipedia.org/wiki/Grande-O](https://pt.wikipedia.org/wiki/Grande-O)
-    [] [Vídeo](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+  ### Notação Big O
+    - [] [https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation](https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+    - [] [https://pmary.gitbooks.io/data-structure-in-javascript/content/22-big-o-notation.html](https://pmary.gitbooks.io/data-structure-in-javascript/content/22-big-o-notation.html)
+    - [] [https://pt.wikipedia.org/wiki/Grande-O](https://pt.wikipedia.org/wiki/Grande-O)
+    - [] [Vídeo](https://www.youtube.com/watch?v=v4cd1O4zkGw)
     
-  - Arrays
-    [] [https://www.w3schools.com/js/js_arrays.asp](https://www.w3schools.com/js/js_arrays.asp)
-    [] [https://www.w3schools.com/js/js_array_methods.asp](https://www.w3schools.com/js/js_array_methods.asp)
-    [] [Buscas em Array](https://medium.com/@osuissa/javascript-buscas-em-arrays-parte-1-aff64d22174)
-    [] [Objects and Arrays](https://eloquentjavascript.net/04_data.html)
+  ### Arrays
+    - [] [https://www.w3schools.com/js/js_arrays.asp](https://www.w3schools.com/js/js_arrays.asp)
+    - [] [https://www.w3schools.com/js/js_array_methods.asp](https://www.w3schools.com/js/js_array_methods.asp)
+    - [] [Buscas em Array](https://medium.com/@osuissa/javascript-buscas-em-arrays-parte-1-aff64d22174)
+    - [] [Objects and Arrays](https://eloquentjavascript.net/04_data.html)
