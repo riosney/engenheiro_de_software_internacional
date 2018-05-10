@@ -1,14 +1,14 @@
 <h1 align="center">Engenheiro de Software Internacional (Full Stack JavaScript)</h1>
 
 ## O que é isso?
-Comecei mais ou menos 1 ano estudar e me preparar para uma vaga em uma empresa Internacional de preferência na Europa. Aqui seguirá de guia o caminho que já venho estudado e que continuo estudando para conseguir tal posição como Engenheiro de Software em JavaScript (Full Stack Developer).
+Comecei mais ou menos a um ano estudar e, me preparar para uma vaga em uma empresa Internacional de preferência na Europa. Aqui seguirá de guia o caminho que já venho estudado e que continuo estudando para conseguir tal posição como Engenheiro de Software em JavaScript (Full Stack Developer).
 
-Espero que com esse guia possa organizar o passo-a-passo tomado e que consiga ajudar outros desenvolvedore Brasileiros conseguir uma vaga no exterior. Ainda não conseguir tal proesa, mas já venho participando de algumas entrevistas internacionais. Ou seja a 1 ano atrás não conseguia nem falar com outra pessoa 'Hello my name is Joel', agora já faço entrevistas com RH, passo pelo o processo, chegando muitas vezes na ultima fase. Espero ajudar a todos como eu, que tem o desejo de trabalhar em uma empresa Internacional.
+Espero que com esse guia possa organizar o passo-a-passo tomado e que consiga ajudar outros desenvolvedore Brasileiros conseguir uma vaga no exterior. Ainda não conseguir tal proesa, mas já venho participando de algumas entrevistas internacionais. Ou seja a um ano atrás não conseguia nem falar com outra pessoa 'Hello my name is Joel', agora já faço entrevistas com RH, passo pelo o processo, chegando muitas vezes na ultima fase. Espero ajudar a todos como eu, que tem o desejo de trabalhar em uma empresa Internacional.
 
 E para as vagas brasileiras? Sim este guia funciona também para as vagas brasileiras. Seguindo esse caminho você conseguirá com mais facilidade conquistar uma vaga no mercado, se destacar para as melhores vagas, ou quem sabe até conseguir um Home Office de uma empresa brasileira ou do exterior.
 
 ## Contribuições
-Achou algum erro de Português? Gostaria de acrescentar algum link importante?
+Achou algum erro de português ou gostaria de acrescentar algum link importante?
 Faça um pull request.
 
 ## Índice
@@ -40,7 +40,7 @@ Então, eu não fiz nenhum curso de inglês, apenas segui o que vou lhe passar a
     - https://resumegenius.com/cover-letter-examples
 
 ### Podcast, Seriados, Filmes, Livros, Tudo.
-Preciso esperar está bom no inglês para começar a estudar o caminho do desenvolvimento? Eu não fiz isso e acredite em mim, vai chegar um dia ou semana que você vai está cansado de estudar algum assunto e vai escapar pois está estudando outro. Então vamos evoluir toas as competências juntas :running:
+Preciso esperar está bom no inglês para começar a estudar o caminho do desenvolvimento!? Eu não fiz isso e acredite em mim, vai chegar um dia ou semana que você vai está cansado de estudar algum assunto e vai escapar pois está estudando outro. Então vamos evoluir toas as competências juntas :running:
 
     - Podcasts
    -[All Earns English](https://www.allearsenglish.com/episodes/)
@@ -65,15 +65,15 @@ Preciso esperar está bom no inglês para começar a estudar o caminho do desenv
   
    Segundo, escolha os seriádos que você usará lhe torturar: Ou seja, assitir o episódio em Inglês com legenda Portugês, depois assitir o mesmo episódio em Inglês com legenda Inglês e repetir até você se sentir confortável.
   
-   Terceiro, escolha os seriádos que você assiti dublado e ponha a Legenda em Inglês. O que? Como assim? Sim uso muito essa técnica em casa, nosso vocabulário não é extenso em inglês e a gente precisa alimentá-lo. Perceb que isso funcionava, pois minha esposa ver muito seriado em Português no NetFlix, etnão comecei a colocar a legenda em inglês enquando assistia com ela, simplesmente isso me ajudou a conhecer novas palavras e frases. E rapidamente comecei a usar no meu dia-adia e nas entrevistas essas novas palavras e frases. É umas das técnicas mais divertidas que eu acho.
+   Terceiro, escolha os seriádos que você assiti dublado e ponha a Legenda em Inglês. O que? Como assim? Sim! uso muito essa técnica em casa, nosso vocabulário não é extenso em inglês e a gente precisa alimentá-lo. Percebi que isso funcionava, pois minha esposa assiste muito seriado em Português no NetFlix, então comecei a colocar a legenda em inglês enquando assistia com ela, simplesmente isso me ajudou a conhecer novas palavras e frases. E rapidamente comecei a usar no meu dia-adia e nas entrevistas essas novas palavras e frases. É umas das técnicas mais divertidas que eu acho.
 
     - Livros e Textos
-  Escolha um livro bacana em Inglês que você vai ler e traduzir o que não entende. e Quando terminar de ler, leia-o novamente e novamente e novamente até você se sentir confortável.
+  Escolha um livro bacana em Inglês que você vai ler e traduzir o que não entende, e, quando terminar de ler, leia-o novamente e, novamente e novamente até você se sentir confortável.
   Siga no Medium, Twitter, Sites de tecnologias internacionais de preferência de preferência de tecnologia ligados ao desenvolviento.
 
-  Então esse foi o caminho que eu fiz durante um ano para aprender e ficar com o Inglês avançado. Eu ainda não passei em uma vaga internacional, mas consegui passar em uma vaga para outro estado, para vaga de Líder de desenvolvimento ligado a projetos Internacionais e já recebi diversas propostas de empresas Brasileiras para trabalhar, mas estou em uma boa posição na empresa atual que trabalho e fica perto de minha Faculdade onde estou focado após 7 anos, terminar minha graduação. Então o inglês, além da profissão como Desenvolvedor abriu e me deixou bastante confortável em relação a emprego no Brasil.
+  Então esse foi o caminho que eu fiz durante um ano para aprender e ficar com o Inglês avançado. Eu ainda não passei em uma vaga internacional, mas consegui passar em uma vaga para outro estado, para vaga de Líder de desenvolvimento ligado a projetos Internacionais e já recebi diversas propostas de empresas Brasileiras para trabalhar, mas estou em uma boa posição na empresa atual que trabalho e fica perto de minha faculdade onde estou focado após 7 anos, terminar minha graduação. Então o inglês, além da profissão como Desenvolvedor abriu e me deixou bastante confortável em relação a emprego no Brasil.
 
-* Minha esposa está seguindo este guia, mas só com o inglês e alguns meses atrás o inglês dela era 0% hoje já pode-se considerar que está com o inglês 50% e tem vezes que ela está escutando uma musica ou um vídeo, ou até mesmo escutando eu falar com alguma empresa de fora e ela depois me pergunta: Você falou isso, eles falram aquilo, entendi essas partes da conversa. É muito divertido isso.
+* Minha esposa está seguindo este guia, mas só com o inglês e alguns meses atrás o inglês dela era 0%, hoje já pode-se considerar que está com o inglês 50% e tem vezes que ela escuta uma música, ou vídeo, ou até mesmo escuta eu falar com alguma empresa de fora e depois me pergunta: Você falou isso, eles falaram aquilo, entendi essas partes da conversa. É muito divertido.
 
 ## Estrutura de Dados
   Quando você estiver estudando JavaScript e suas famosas Libs e Frameworks, no caso ReactJS, Angular, Vue e tantos outros visando o mercado Global é preciso saber que as entrevistas lá fora muitas vezes não será desenvolver um projeto ou alguma Feature em JS e sim como você lida com Estrutura de Dados, então devemos forcar também em conhecer e resolver problemas utilizando LinkedList, HashTable, saber como se comporta um Árvore Binária, assim como compreênder a complexidade de um algorítimo com Big O. Principalmente se você está buscando uma vaga como Software Egineer, FullStack Developer, FrontEnd Engineer ou até mesmo FrontEnd Developer, pois já fiz algumas entrevistas para FrontEnd Developer onde pediram muitas vezes pra resolver tais problemas.
